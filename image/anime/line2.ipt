@@ -1,0 +1,7 @@
+ipt = {
+	mode = "anime_full",
+	base = { x=0, y=0, w=1920, h=1080, ax=960, ay=540, time=100, max=3, loop=-1 },
+	{"line21"},
+	{"line22"},
+	{"line23"},
+}
