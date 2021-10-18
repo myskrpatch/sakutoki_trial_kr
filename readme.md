@@ -1,17 +1,18 @@
-#사쿠라의 각 1장 체험판 한글패치
+# 사쿠라의 각 1장 체험판 한글패치
+
 Korean translation for sakuranotoki trial
 
-official website
+Sakuranotoki official website
 
-https://www.makura-soft.com/sakuranouta/special/trial_download.html
+https://www.makura-soft.com/sakuranotoki/
 
+--------------------------------------------------------------------------------
 
-[LICENSE]
+## LICENSE
 
 Artemis Engine
 	Copyright (C)2009 Daiju Hanaoka (Mikage) All rights reserved.
 
---------------------------------------------------------------------------------
 
 CGFontGetGlyphsForUnicharsAlternate
 	Original File Name, Author and Licence.
