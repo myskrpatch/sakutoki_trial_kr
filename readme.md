@@ -2,6 +2,9 @@
 
 Korean translation for sakuranotoki trial
 
+https://myskrpatch.github.io/sakutoki_trial_kr
+
+
 Sakuranotoki official website
 
 https://www.makura-soft.com/sakuranotoki/
